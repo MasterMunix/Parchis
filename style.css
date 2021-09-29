@@ -1,0 +1,27 @@
+table,td,tr {
+ width: auto;   
+ border: 1px solid black;
+}
+
+.blue_team{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: blue; 
+}
+.yellow_team{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: yellow;
+}
+td{
+    width: 400px;
+    height: 20px;
+}
+.blue_road{
+    background-color: blue;
+}
+.red_road{
+    background-color: red;
+}
